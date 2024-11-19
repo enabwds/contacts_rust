@@ -1,3 +1,0 @@
-(function() {var implementors = {
-"contacts_rust":[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.81.0/core/panic/unwind_safe/trait.UnwindSafe.html\" title=\"trait core::panic::unwind_safe::UnwindSafe\">UnwindSafe</a> for <a class=\"struct\" href=\"contacts_rust/struct.Contact.html\" title=\"struct contacts_rust::Contact\">Contact</a>",1,["contacts_rust::Contact"]]]
-};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
