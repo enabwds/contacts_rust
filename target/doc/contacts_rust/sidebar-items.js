@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["add_contact","check_for_duplicates","delete_contact","display_contacts","edit_contact","find_contact_index","load_contacts","main","save_contacts","search_contact"],"struct":["Contact"]};
