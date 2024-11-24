@@ -1,6 +1,13 @@
 use std::io::{self, Write};
 use std::fs::{File, OpenOptions};
 use std::io::{BufRead, BufReader};
+use ratatui::{
+    crossterm::event::{self, KeyCode, KeyEventKind},
+    style::Stylize,
+    widgets::Paragraph,
+    DefaultTerminal,
+};
+
 
 #[derive(Clone)]
 struct Contact {
