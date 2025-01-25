@@ -23,7 +23,7 @@ To run this application, you'll need:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/contacts_rust.git
+   git clone https://github.com/enabwds/contacts_rust.git
    cd contacts_rust
    ```
 
